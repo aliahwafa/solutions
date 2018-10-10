@@ -1,4 +1,4 @@
 # solutions
 Adding country to apps
-remove previous locality
+<i>remove previous locality </i>
 # Change
